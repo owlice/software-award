@@ -8,8 +8,8 @@ that scientific software contains intellectual content and scientific
 innovation. 
 
 One or more sub-national, national, or international technical societies should give out a software award. 
-A private funder could back this andy may be able to partner with domain-science technical societies for some small awards. 
-Ideally, such a private funder were to provide seed funding for an endowment for such an award. 
+A private funder could back this and may be able to partner with domain-science technical societies for some small awards. 
+Ideally, such a private funder would provide seed funding for an endowment for such an award. 
 
 
 ## Purpose?
@@ -35,7 +35,7 @@ Ideally, such a private funder were to provide seed funding for an endowment for
 - Similar to https://www.insna.org/awards_richard.html? Or not a “lifetime achievement” award?
 
 ## Who will judge?
-- Domain experts in your field who are members of the honors/awards committee  in your national society?
+- Domain experts in your field who are members of the honors/awards committee in your national society?
 - General software experts
 
 ## How much? 
